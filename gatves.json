@@ -1,0 +1,4258 @@
+[
+ {
+  "nID": 22032,
+  "gID": 16,
+  "name": "A. Domaševičiaus g.",
+  "a_total": 6,
+  "a_info": 6
+ },
+ {
+  "nID": 21871,
+  "gID": 20,
+  "name": "Adutiškio g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 24045,
+  "gID": 16,
+  "name": "A. Goštauto g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 21873,
+  "gID": 17,
+  "name": "Aguonų g.",
+  "a_total": 28,
+  "a_info": 28
+ },
+ {
+  "nID": 28811,
+  "gID": 18,
+  "name": "Aido g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 21862,
+  "gID": 16,
+  "name": "A. Jakšto g.",
+  "a_total": 22,
+  "a_info": 0
+ },
+ {
+  "nID": 21863,
+  "gID": 20,
+  "name": "A. Jaroševičiaus g.",
+  "a_total": 28,
+  "a_info": 28
+ },
+ {
+  "nID": 22423,
+  "gID": 11,
+  "name": "A. J. Povilaičio g.",
+  "a_total": 22,
+  "a_info": 22
+ },
+ {
+  "nID": 21864,
+  "gID": 8,
+  "name": "A. Juozapavičiaus g.",
+  "a_total": 26,
+  "a_info": 15
+ },
+ {
+  "nID": 21875,
+  "gID": 19,
+  "name": "Akacijų g.",
+  "a_total": 19,
+  "a_info": 19
+ },
+ {
+  "nID": 21877,
+  "gID": 16,
+  "name": "Akmenų g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 21992,
+  "gID": 19,
+  "name": "A. Kojelavičiaus g.",
+  "a_total": 162,
+  "a_info": 152
+ },
+ {
+  "nID": 24278,
+  "gID": 1,
+  "name": "A. Krutulio g.",
+  "a_total": 46,
+  "a_info": 26
+ },
+ {
+  "nID": 30998,
+  "gID": 19,
+  "name": "A. Kulviečio g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 21878,
+  "gID": 16,
+  "name": "Algirdo g.",
+  "a_total": 76,
+  "a_info": 0
+ },
+ {
+  "nID": 21880,
+  "gID": 20,
+  "name": "Alytaus g.",
+  "a_total": 17,
+  "a_info": 17
+ },
+ {
+  "nID": 21879,
+  "gID": 18,
+  "name": "Alkūnės g.",
+  "a_total": 23,
+  "a_info": 23
+ },
+ {
+  "nID": 21881,
+  "gID": 20,
+  "name": "Alšėnų g.",
+  "a_total": 6,
+  "a_info": 6
+ },
+ {
+  "nID": 24258,
+  "gID": 16,
+  "name": "Aludarių g.",
+  "a_total": 9,
+  "a_info": 5
+ },
+ {
+  "nID": 21882,
+  "gID": 16,
+  "name": "Amatų g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 21865,
+  "gID": 12,
+  "name": "A. Mickevičiaus g.",
+  "a_total": 33,
+  "a_info": 33
+ },
+ {
+  "nID": 21886,
+  "gID": 7,
+  "name": "Anykščių g.",
+  "a_total": 27,
+  "a_info": 25
+ },
+ {
+  "nID": 21883,
+  "gID": 16,
+  "name": "Ankštoji g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 21884,
+  "gID": 10,
+  "name": "Antakalnio g.",
+  "a_total": 209,
+  "a_info": 90
+ },
+ {
+  "nID": 22166,
+  "gID": 19,
+  "name": "A. Paškevic-Ciotkos g.",
+  "a_total": 19,
+  "a_info": 0
+ },
+ {
+  "nID": 29365,
+  "gID": 1,
+  "name": "Apynių g.",
+  "a_total": 6,
+  "a_info": 6
+ },
+ {
+  "nID": 21887,
+  "gID": 9,
+  "name": "Apkasų g.",
+  "a_total": 34,
+  "a_info": 0
+ },
+ {
+  "nID": 30663,
+  "gID": 11,
+  "name": "A. P. Kavoliuko g.",
+  "a_total": 58,
+  "a_info": 58
+ },
+ {
+  "nID": 21888,
+  "gID": 14,
+  "name": "Architektų g.",
+  "a_total": 154,
+  "a_info": 93
+ },
+ {
+  "nID": 21889,
+  "gID": 19,
+  "name": "Arimų g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 21890,
+  "gID": 17,
+  "name": "Arklių g.",
+  "a_total": 23,
+  "a_info": 23
+ },
+ {
+  "nID": 22168,
+  "gID": 16,
+  "name": "A. Rotundo g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 21891,
+  "gID": 17,
+  "name": "Arsenalo g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 21867,
+  "gID": 16,
+  "name": "A. Smetonos g.",
+  "a_total": 9,
+  "a_info": 0
+ },
+ {
+  "nID": 21868,
+  "gID": 17,
+  "name": "A. Strazdelio g.",
+  "a_total": 4,
+  "a_info": 0
+ },
+ {
+  "nID": 22033,
+  "gID": 16,
+  "name": "A. Stulginskio g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 21900,
+  "gID": 17,
+  "name": "Ašmenos g.",
+  "a_total": 4,
+  "a_info": 4
+ },
+ {
+  "nID": 21893,
+  "gID": 3,
+  "name": "Ateities g.",
+  "a_total": 80,
+  "a_info": 80
+ },
+ {
+  "nID": 21895,
+  "gID": 17,
+  "name": "Augustijonų g.",
+  "a_total": 3,
+  "a_info": 0
+ },
+ {
+  "nID": 21897,
+  "gID": 17,
+  "name": "Aukštaičių g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 21898,
+  "gID": 16,
+  "name": "Aukų g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 21899,
+  "gID": 17,
+  "name": "Aušros Vartų g.",
+  "a_total": 65,
+  "a_info": 0
+ },
+ {
+  "nID": 29366,
+  "gID": 1,
+  "name": "Aviečių g.",
+  "a_total": 14,
+  "a_info": 10
+ },
+ {
+  "nID": 21869,
+  "gID": 16,
+  "name": "A. Vienuolio g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 22042,
+  "gID": 16,
+  "name": "A. Vivulskio g.",
+  "a_total": 49,
+  "a_info": 0
+ },
+ {
+  "nID": 48864,
+  "gID": 1,
+  "name": "Avižų g.",
+  "a_total": 5,
+  "a_info": 1
+ },
+ {
+  "nID": 24699,
+  "gID": 19,
+  "name": "Ąžuolyno g.",
+  "a_total": 27,
+  "a_info": 0
+ },
+ {
+  "nID": 21902,
+  "gID": 18,
+  "name": "Balandžių g.",
+  "a_total": 18,
+  "a_info": 0
+ },
+ {
+  "nID": 21907,
+  "gID": 17,
+  "name": "Balstogės g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 21905,
+  "gID": 17,
+  "name": "Baltasis skg.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 21908,
+  "gID": 1,
+  "name": "Baltupio g.",
+  "a_total": 41,
+  "a_info": 24
+ },
+ {
+  "nID": 21911,
+  "gID": 17,
+  "name": "Barboros Radvilaitės g.",
+  "a_total": 12,
+  "a_info": 12
+ },
+ {
+  "nID": 21912,
+  "gID": 17,
+  "name": "Bazilijonų g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 24283,
+  "gID": 16,
+  "name": "Beatričės g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 21913,
+  "gID": 12,
+  "name": "Bebrų g.",
+  "a_total": 24,
+  "a_info": 14
+ },
+ {
+  "nID": 21914,
+  "gID": 19,
+  "name": "Belmonto g.",
+  "a_total": 23,
+  "a_info": 23
+ },
+ {
+  "nID": 21915,
+  "gID": 18,
+  "name": "Belvederio g.",
+  "a_total": 27,
+  "a_info": 27
+ },
+ {
+  "nID": 21917,
+  "gID": 17,
+  "name": "Bernardinų g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 24277,
+  "gID": 16,
+  "name": "Beržyno g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 21922,
+  "gID": 19,
+  "name": "Bičių g.",
+  "a_total": 20,
+  "a_info": 0
+ },
+ {
+  "nID": 21918,
+  "gID": 18,
+  "name": "Birbynių g.",
+  "a_total": 36,
+  "a_info": 36
+ },
+ {
+  "nID": 21919,
+  "gID": 12,
+  "name": "Birutės g.",
+  "a_total": 50,
+  "a_info": 32
+ },
+ {
+  "nID": 29261,
+  "gID": 16,
+  "name": "Birželio 23-iosios g.",
+  "a_total": 20,
+  "a_info": 0
+ },
+ {
+  "nID": 24261,
+  "gID": 19,
+  "name": "Biržiškių g.",
+  "a_total": 35,
+  "a_info": 33
+ },
+ {
+  "nID": 21920,
+  "gID": 10,
+  "name": "Bistryčios g.",
+  "a_total": 35,
+  "a_info": 33
+ },
+ {
+  "nID": 21921,
+  "gID": 1,
+  "name": "Bitininkų g.",
+  "a_total": 29,
+  "a_info": 18
+ },
+ {
+  "nID": 24265,
+  "gID": 19,
+  "name": "B. Laurinavičiaus g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 21923,
+  "gID": 12,
+  "name": "Blindžių g.",
+  "a_total": 37,
+  "a_info": 24
+ },
+ {
+  "nID": 21924,
+  "gID": 17,
+  "name": "Bokšto g.",
+  "a_total": 38,
+  "a_info": 36
+ },
+ {
+  "nID": 21925,
+  "gID": 1,
+  "name": "Braškių g.",
+  "a_total": 22,
+  "a_info": 15
+ },
+ {
+  "nID": 21927,
+  "gID": 20,
+  "name": "Brolių g.",
+  "a_total": 17,
+  "a_info": 16
+ },
+ {
+  "nID": 24276,
+  "gID": 10,
+  "name": "B. Sruogos g.",
+  "a_total": 46,
+  "a_info": 0
+ },
+ {
+  "nID": 21929,
+  "gID": 7,
+  "name": "Buivydiškių g.",
+  "a_total": 29,
+  "a_info": 0
+ },
+ {
+  "nID": 21936,
+  "gID": 15,
+  "name": "Burbiškių g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 21937,
+  "gID": 20,
+  "name": "Butrimonių g.",
+  "a_total": 11,
+  "a_info": 6
+ },
+ {
+  "nID": 21938,
+  "gID": 8,
+  "name": "Ceikinių g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 48920,
+  "gID": 19,
+  "name": "Centrinė g.",
+  "a_total": 38,
+  "a_info": 0
+ },
+ {
+  "nID": 22473,
+  "gID": 7,
+  "name": "Čiobiškio g.",
+  "a_total": 27,
+  "a_info": 27
+ },
+ {
+  "nID": 22474,
+  "gID": 19,
+  "name": "Čiobrelių g.",
+  "a_total": 12,
+  "a_info": 12
+ },
+ {
+  "nID": 24274,
+  "gID": 6,
+  "name": "Č. Sugiharos g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 21940,
+  "gID": 18,
+  "name": "Dailidžių g.",
+  "a_total": 32,
+  "a_info": 32
+ },
+ {
+  "nID": 21941,
+  "gID": 16,
+  "name": "Dainavos g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 21942,
+  "gID": 18,
+  "name": "Dalgių g.",
+  "a_total": 18,
+  "a_info": 18
+ },
+ {
+  "nID": 21943,
+  "gID": 20,
+  "name": "Darbininkų g.",
+  "a_total": 21,
+  "a_info": 12
+ },
+ {
+  "nID": 21944,
+  "gID": 18,
+  "name": "Darbo g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 21945,
+  "gID": 20,
+  "name": "Dariaus ir Girėno g.",
+  "a_total": 22,
+  "a_info": 14
+ },
+ {
+  "nID": 21946,
+  "gID": 19,
+  "name": "Darželio g.",
+  "a_total": 5,
+  "a_info": 0
+ },
+ {
+  "nID": 21947,
+  "gID": 8,
+  "name": "Daugėliškio g.",
+  "a_total": 41,
+  "a_info": 0
+ },
+ {
+  "nID": 30996,
+  "gID": 6,
+  "name": "D. Dudajevo skv.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 21948,
+  "gID": 10,
+  "name": "Debesijos g.",
+  "a_total": 11,
+  "a_info": 10
+ },
+ {
+  "nID": 21949,
+  "gID": 7,
+  "name": "Deltuvos g.",
+  "a_total": 17,
+  "a_info": 0
+ },
+ {
+  "nID": 22509,
+  "gID": 11,
+  "name": "D. Gerbutavičiaus g.",
+  "a_total": 20,
+  "a_info": 20
+ },
+ {
+  "nID": 21950,
+  "gID": 3,
+  "name": "Didlaukio g.",
+  "a_total": 73,
+  "a_info": 59
+ },
+ {
+  "nID": 21951,
+  "gID": 17,
+  "name": "Didžioji g.",
+  "a_total": 59,
+  "a_info": 2
+ },
+ {
+  "nID": 21953,
+  "gID": 18,
+  "name": "Dilgynės g.",
+  "a_total": 12,
+  "a_info": 12
+ },
+ {
+  "nID": 21954,
+  "gID": 18,
+  "name": "Dirvonų g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 21963,
+  "gID": 17,
+  "name": "Dysnos g.",
+  "a_total": 2,
+  "a_info": 0
+ },
+ {
+  "nID": 21955,
+  "gID": 18,
+  "name": "Dobilų g.",
+  "a_total": 4,
+  "a_info": 0
+ },
+ {
+  "nID": 21956,
+  "gID": 17,
+  "name": "Dominikonų g.",
+  "a_total": 16,
+  "a_info": 16
+ },
+ {
+  "nID": 21939,
+  "gID": 12,
+  "name": "D. Poškos g.",
+  "a_total": 68,
+  "a_info": 44
+ },
+ {
+  "nID": 21957,
+  "gID": 19,
+  "name": "Draugystės g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 21959,
+  "gID": 8,
+  "name": "Dubingių g.",
+  "a_total": 37,
+  "a_info": 0
+ },
+ {
+  "nID": 21960,
+  "gID": 18,
+  "name": "Dunojaus g.",
+  "a_total": 13,
+  "a_info": 0
+ },
+ {
+  "nID": 21961,
+  "gID": 8,
+  "name": "Durpių g.",
+  "a_total": 24,
+  "a_info": 0
+ },
+ {
+  "nID": 21965,
+  "gID": 7,
+  "name": "Dūkštų g.",
+  "a_total": 24,
+  "a_info": 0
+ },
+ {
+  "nID": 24260,
+  "gID": 19,
+  "name": "Dūmų g.",
+  "a_total": 30,
+  "a_info": 0
+ },
+ {
+  "nID": 21964,
+  "gID": 20,
+  "name": "Dzūkų g.",
+  "a_total": 87,
+  "a_info": 47
+ },
+ {
+  "nID": 21966,
+  "gID": 19,
+  "name": "Džiaugsmo g.",
+  "a_total": 59,
+  "a_info": 0
+ },
+ {
+  "nID": 21967,
+  "gID": 15,
+  "name": "Eglių g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 21971,
+  "gID": 15,
+  "name": "Elektrinės g.",
+  "a_total": 26,
+  "a_info": 17
+ },
+ {
+  "nID": 21972,
+  "gID": 12,
+  "name": "Elnių g.",
+  "a_total": 17,
+  "a_info": 15
+ },
+ {
+  "nID": 21973,
+  "gID": 14,
+  "name": "Erfurto g.",
+  "a_total": 58,
+  "a_info": 36
+ },
+ {
+  "nID": 21974,
+  "gID": 17,
+  "name": "Etmonų g.",
+  "a_total": 3,
+  "a_info": 0
+ },
+ {
+  "nID": 21975,
+  "gID": 10,
+  "name": "Ežerėlių g.",
+  "a_total": 2,
+  "a_info": 0
+ },
+ {
+  "nID": 21977,
+  "gID": 3,
+  "name": "Fabijoniškių g.",
+  "a_total": 99,
+  "a_info": 99
+ },
+ {
+  "nID": 21979,
+  "gID": 18,
+  "name": "Filaretų g.",
+  "a_total": 76,
+  "a_info": 0
+ },
+ {
+  "nID": 21981,
+  "gID": 2,
+  "name": "Gabijos g.",
+  "a_total": 49,
+  "a_info": 25
+ },
+ {
+  "nID": 21982,
+  "gID": 10,
+  "name": "Gaidžių g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 21983,
+  "gID": 10,
+  "name": "Gaigalų g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 28254,
+  "gID": 10,
+  "name": "Gailestingųjų Seserų g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 21985,
+  "gID": 19,
+  "name": "Gandrų g.",
+  "a_total": 36,
+  "a_info": 0
+ },
+ {
+  "nID": 21986,
+  "gID": 17,
+  "name": "Gaono g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 21987,
+  "gID": 18,
+  "name": "Gardino g.",
+  "a_total": 34,
+  "a_info": 34
+ },
+ {
+  "nID": 21989,
+  "gID": 19,
+  "name": "Garsioji g.",
+  "a_total": 23,
+  "a_info": 0
+ },
+ {
+  "nID": 21990,
+  "gID": 20,
+  "name": "Garvežių g.",
+  "a_total": 13,
+  "a_info": 7
+ },
+ {
+  "nID": 21991,
+  "gID": 17,
+  "name": "Gedimino pr.",
+  "a_total": 97,
+  "a_info": 97
+ },
+ {
+  "nID": 22539,
+  "gID": 3,
+  "name": "Gedvydžių g.",
+  "a_total": 29,
+  "a_info": 29
+ },
+ {
+  "nID": 25058,
+  "gID": 18,
+  "name": "Gegužės g.",
+  "a_total": 9,
+  "a_info": 0
+ },
+ {
+  "nID": 21994,
+  "gID": 18,
+  "name": "Geležinė g.",
+  "a_total": 37,
+  "a_info": 37
+ },
+ {
+  "nID": 21995,
+  "gID": 8,
+  "name": "Geležinio Vilko g.",
+  "a_total": 25,
+  "a_info": 25
+ },
+ {
+  "nID": 21993,
+  "gID": 17,
+  "name": "Geležinkelio g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 21997,
+  "gID": 7,
+  "name": "Gelvonų g.",
+  "a_total": 74,
+  "a_info": 38
+ },
+ {
+  "nID": 21998,
+  "gID": 19,
+  "name": "Genių g.",
+  "a_total": 29,
+  "a_info": 0
+ },
+ {
+  "nID": 22000,
+  "gID": 15,
+  "name": "Gerosios Vilties g.",
+  "a_total": 51,
+  "a_info": 29
+ },
+ {
+  "nID": 22001,
+  "gID": 19,
+  "name": "Gerovės g.",
+  "a_total": 33,
+  "a_info": 33
+ },
+ {
+  "nID": 22003,
+  "gID": 17,
+  "name": "Gervėčių g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22002,
+  "gID": 12,
+  "name": "Gervių g.",
+  "a_total": 9,
+  "a_info": 6
+ },
+ {
+  "nID": 22019,
+  "gID": 17,
+  "name": "Gėlių g.",
+  "a_total": 26,
+  "a_info": 26
+ },
+ {
+  "nID": 26991,
+  "gID": 19,
+  "name": "Gėlių g.",
+  "a_total": 37,
+  "a_info": 34
+ },
+ {
+  "nID": 22004,
+  "gID": 8,
+  "name": "Giedraičių g.",
+  "a_total": 105,
+  "a_info": 0
+ },
+ {
+  "nID": 22007,
+  "gID": 15,
+  "name": "Giraitės g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 22018,
+  "gID": 16,
+  "name": "Gynėjų g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 22008,
+  "gID": 19,
+  "name": "Gluosnių g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22010,
+  "gID": 10,
+  "name": "Gražinos g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22012,
+  "gID": 10,
+  "name": "Grybautojų g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22013,
+  "gID": 19,
+  "name": "Grūdų g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 21904,
+  "gID": 20,
+  "name": "Gudų g.",
+  "a_total": 26,
+  "a_info": 16
+ },
+ {
+  "nID": 22015,
+  "gID": 12,
+  "name": "Gulbių g.",
+  "a_total": 15,
+  "a_info": 13
+ },
+ {
+  "nID": 24271,
+  "gID": 19,
+  "name": "G. Žemkalnio g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 22020,
+  "gID": 8,
+  "name": "H. Manto g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 28259,
+  "gID": 20,
+  "name": "Iešmininkų g.",
+  "a_total": 10,
+  "a_info": 7
+ },
+ {
+  "nID": 22026,
+  "gID": 19,
+  "name": "Ievų g.",
+  "a_total": 13,
+  "a_info": 0
+ },
+ {
+  "nID": 22022,
+  "gID": 4,
+  "name": "I. Kanto al.",
+  "a_total": 24,
+  "a_info": 1
+ },
+ {
+  "nID": 22023,
+  "gID": 12,
+  "name": "I. Kraševskio g.",
+  "a_total": 5,
+  "a_info": 2
+ },
+ {
+  "nID": 22037,
+  "gID": 17,
+  "name": "Islandijos g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 22027,
+  "gID": 17,
+  "name": "Išganytojo g.",
+  "a_total": 3,
+  "a_info": 0
+ },
+ {
+  "nID": 30664,
+  "gID": 11,
+  "name": "I. Šimulionio g.",
+  "a_total": 18,
+  "a_info": 18
+ },
+ {
+  "nID": 22475,
+  "gID": 4,
+  "name": "Įsruties g.",
+  "a_total": 14,
+  "a_info": 14
+ },
+ {
+  "nID": 22028,
+  "gID": 17,
+  "name": "J. Basanavičiaus g.",
+  "a_total": 80,
+  "a_info": 80
+ },
+ {
+  "nID": 22029,
+  "gID": 20,
+  "name": "J. Bielinio g.",
+  "a_total": 18,
+  "a_info": 12
+ },
+ {
+  "nID": 47616,
+  "gID": 1,
+  "name": "Jeruzalės g.",
+  "a_total": 30,
+  "a_info": 17
+ },
+ {
+  "nID": 22034,
+  "gID": 17,
+  "name": "J. Jablonskio g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 22036,
+  "gID": 6,
+  "name": "J. Jasinskio g.",
+  "a_total": 32,
+  "a_info": 23
+ },
+ {
+  "nID": 28027,
+  "gID": 1,
+  "name": "J. Kazlausko g.",
+  "a_total": 15,
+  "a_info": 14
+ },
+ {
+  "nID": 22038,
+  "gID": 19,
+  "name": "J. Kolaso g.",
+  "a_total": 38,
+  "a_info": 0
+ },
+ {
+  "nID": 22025,
+  "gID": 19,
+  "name": "J. Kupalos g.",
+  "a_total": 33,
+  "a_info": 0
+ },
+ {
+  "nID": 22049,
+  "gID": 17,
+  "name": "Jogailos g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22050,
+  "gID": 20,
+  "name": "Jotvingių g.",
+  "a_total": 4,
+  "a_info": 1
+ },
+ {
+  "nID": 22051,
+  "gID": 16,
+  "name": "Jovaro g.",
+  "a_total": 9,
+  "a_info": 0
+ },
+ {
+  "nID": 22102,
+  "gID": 16,
+  "name": "J. Savickio g.",
+  "a_total": 11,
+  "a_info": 11
+ },
+ {
+  "nID": 28363,
+  "gID": 19,
+  "name": "J. Slovackio g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22044,
+  "gID": 16,
+  "name": "J. Tumo-Vaižganto g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22053,
+  "gID": 19,
+  "name": "Juodasis kelias",
+  "a_total": 20,
+  "a_info": 20
+ },
+ {
+  "nID": 22055,
+  "gID": 19,
+  "name": "Jurginų g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 24287,
+  "gID": 6,
+  "name": "Jurgio Matulaičio a.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22056,
+  "gID": 6,
+  "name": "Justiniškių g.",
+  "a_total": 99,
+  "a_info": 99
+ },
+ {
+  "nID": 22057,
+  "gID": 10,
+  "name": "Jūratės g.",
+  "a_total": 28,
+  "a_info": 0
+ },
+ {
+  "nID": 28810,
+  "gID": 3,
+  "name": "Kaimelio g.",
+  "a_total": 16,
+  "a_info": 16
+ },
+ {
+  "nID": 22067,
+  "gID": 8,
+  "name": "Kaltanėnų g.",
+  "a_total": 9,
+  "a_info": 7
+ },
+ {
+  "nID": 22068,
+  "gID": 9,
+  "name": "Kalvarijų g.",
+  "a_total": 383,
+  "a_info": 297
+ },
+ {
+  "nID": 22069,
+  "gID": 10,
+  "name": "Kalvos g.",
+  "a_total": 9,
+  "a_info": 8
+ },
+ {
+  "nID": 22070,
+  "gID": 20,
+  "name": "Kaminkelio g.",
+  "a_total": 34,
+  "a_info": 30
+ },
+ {
+  "nID": 22071,
+  "gID": 19,
+  "name": "Kampo g.",
+  "a_total": 15,
+  "a_info": 0
+ },
+ {
+  "nID": 22072,
+  "gID": 10,
+  "name": "Kanklių g.",
+  "a_total": 21,
+  "a_info": 21
+ },
+ {
+  "nID": 22073,
+  "gID": 20,
+  "name": "Kapsų g.",
+  "a_total": 33,
+  "a_info": 22
+ },
+ {
+  "nID": 22074,
+  "gID": 12,
+  "name": "Karaimų g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 22075,
+  "gID": 4,
+  "name": "Karaliaučiaus g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 22077,
+  "gID": 9,
+  "name": "Kareivių g.",
+  "a_total": 26,
+  "a_info": 24
+ },
+ {
+  "nID": 22078,
+  "gID": 10,
+  "name": "Karių Kapų g.",
+  "a_total": 23,
+  "a_info": 0
+ },
+ {
+  "nID": 24285,
+  "gID": 19,
+  "name": "Karklėnų g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22079,
+  "gID": 19,
+  "name": "Karklų g.",
+  "a_total": 29,
+  "a_info": 0
+ },
+ {
+  "nID": 22080,
+  "gID": 17,
+  "name": "Karmelitų g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 26756,
+  "gID": 16,
+  "name": "Kaštonų g.",
+  "a_total": 11,
+  "a_info": 0
+ },
+ {
+  "nID": 28261,
+  "gID": 18,
+  "name": "Kaukysos g.",
+  "a_total": 5,
+  "a_info": 0
+ },
+ {
+  "nID": 22082,
+  "gID": 17,
+  "name": "Kauno g.",
+  "a_total": 57,
+  "a_info": 0
+ },
+ {
+  "nID": 22083,
+  "gID": 13,
+  "name": "Kazbėjų g.",
+  "a_total": 65,
+  "a_info": 44
+ },
+ {
+  "nID": 22084,
+  "gID": 9,
+  "name": "Kazliškių g.",
+  "a_total": 8,
+  "a_info": 5
+ },
+ {
+  "nID": 28251,
+  "gID": 10,
+  "name": "K. Būgos g.",
+  "a_total": 1,
+  "a_info": 0
+ },
+ {
+  "nID": 22059,
+  "gID": 16,
+  "name": "K. Donelaičio g.",
+  "a_total": 23,
+  "a_info": 0
+ },
+ {
+  "nID": 22086,
+  "gID": 16,
+  "name": "Kedrų g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 22088,
+  "gID": 18,
+  "name": "Kenos g.",
+  "a_total": 9,
+  "a_info": 9
+ },
+ {
+  "nID": 22090,
+  "gID": 8,
+  "name": "Kernavės g.",
+  "a_total": 53,
+  "a_info": 0
+ },
+ {
+  "nID": 22116,
+  "gID": 12,
+  "name": "Kęstučio g.",
+  "a_total": 52,
+  "a_info": 29
+ },
+ {
+  "nID": 24712,
+  "gID": 17,
+  "name": "Kėdainių g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 26992,
+  "gID": 13,
+  "name": "Kiaunių g.",
+  "a_total": 72,
+  "a_info": 72
+ },
+ {
+  "nID": 22093,
+  "gID": 10,
+  "name": "Kiškių g.",
+  "a_total": 2,
+  "a_info": 0
+ },
+ {
+  "nID": 24708,
+  "gID": 19,
+  "name": "K. Jakubėno g.",
+  "a_total": 6,
+  "a_info": 6
+ },
+ {
+  "nID": 28260,
+  "gID": 10,
+  "name": "K. Jauniaus g.",
+  "a_total": 2,
+  "a_info": 0
+ },
+ {
+  "nID": 22060,
+  "gID": 17,
+  "name": "K. Kalinausko g.",
+  "a_total": 23,
+  "a_info": 3
+ },
+ {
+  "nID": 22094,
+  "gID": 7,
+  "name": "Klaipėdos g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22095,
+  "gID": 15,
+  "name": "Klevų g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 22096,
+  "gID": 10,
+  "name": "Klinikų g.",
+  "a_total": 15,
+  "a_info": 0
+ },
+ {
+  "nID": 22097,
+  "gID": 19,
+  "name": "Klonių g.",
+  "a_total": 9,
+  "a_info": 9
+ },
+ {
+  "nID": 22098,
+  "gID": 1,
+  "name": "Kolektyvo g.",
+  "a_total": 47,
+  "a_info": 30
+ },
+ {
+  "nID": 22099,
+  "gID": 20,
+  "name": "Konduktorių g.",
+  "a_total": 13,
+  "a_info": 7
+ },
+ {
+  "nID": 22100,
+  "gID": 10,
+  "name": "Kopūstų g.",
+  "a_total": 10,
+  "a_info": 8
+ },
+ {
+  "nID": 48708,
+  "gID": 13,
+  "name": "Krantinės g.",
+  "a_total": 12,
+  "a_info": 12
+ },
+ {
+  "nID": 22101,
+  "gID": 17,
+  "name": "Kranto g.",
+  "a_total": 2,
+  "a_info": 0
+ },
+ {
+  "nID": 22103,
+  "gID": 16,
+  "name": "Kražių g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22104,
+  "gID": 17,
+  "name": "Kreivasis skg.",
+  "a_total": 4,
+  "a_info": 0
+ },
+ {
+  "nID": 22109,
+  "gID": 18,
+  "name": "Krėvos g.",
+  "a_total": 11,
+  "a_info": 11
+ },
+ {
+  "nID": 22537,
+  "gID": 17,
+  "name": "Krivių g.",
+  "a_total": 43,
+  "a_info": 0
+ },
+ {
+  "nID": 22106,
+  "gID": 17,
+  "name": "Krivūlės g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22107,
+  "gID": 8,
+  "name": "Krokuvos g.",
+  "a_total": 82,
+  "a_info": 0
+ },
+ {
+  "nID": 22108,
+  "gID": 17,
+  "name": "Kruopų g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22062,
+  "gID": 17,
+  "name": "K. Sirvydo g.",
+  "a_total": 5,
+  "a_info": 1
+ },
+ {
+  "nID": 22114,
+  "gID": 19,
+  "name": "Kučkuriškių g.",
+  "a_total": 1,
+  "a_info": 0
+ },
+ {
+  "nID": 22110,
+  "gID": 10,
+  "name": "Kuosų g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22111,
+  "gID": 18,
+  "name": "Kuprioniškių g.",
+  "a_total": 33,
+  "a_info": 33
+ },
+ {
+  "nID": 22063,
+  "gID": 17,
+  "name": "K. Vanagelio g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 22115,
+  "gID": 1,
+  "name": "Kviečių g.",
+  "a_total": 12,
+  "a_info": 11
+ },
+ {
+  "nID": 22121,
+  "gID": 17,
+  "name": "Labdarių g.",
+  "a_total": 20,
+  "a_info": 0
+ },
+ {
+  "nID": 22123,
+  "gID": 7,
+  "name": "Laisvės pr.",
+  "a_total": 87,
+  "a_info": 87
+ },
+ {
+  "nID": 22124,
+  "gID": 10,
+  "name": "Lakštingalų g.",
+  "a_total": 16,
+  "a_info": 0
+ },
+ {
+  "nID": 24693,
+  "gID": 9,
+  "name": "Lakūnų g.",
+  "a_total": 12,
+  "a_info": 11
+ },
+ {
+  "nID": 22125,
+  "gID": 17,
+  "name": "Lapų g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22528,
+  "gID": 11,
+  "name": "L. Asanavičiūtės g.",
+  "a_total": 44,
+  "a_info": 44
+ },
+ {
+  "nID": 22126,
+  "gID": 17,
+  "name": "Latako g.",
+  "a_total": 13,
+  "a_info": 0
+ },
+ {
+  "nID": 22127,
+  "gID": 12,
+  "name": "Latgalių g.",
+  "a_total": 10,
+  "a_info": 7
+ },
+ {
+  "nID": 22128,
+  "gID": 12,
+  "name": "Latvių g.",
+  "a_total": 75,
+  "a_info": 46
+ },
+ {
+  "nID": 22130,
+  "gID": 12,
+  "name": "Lenktoji g.",
+  "a_total": 58,
+  "a_info": 39
+ },
+ {
+  "nID": 22131,
+  "gID": 20,
+  "name": "Lenkų g.",
+  "a_total": 14,
+  "a_info": 5
+ },
+ {
+  "nID": 22133,
+  "gID": 10,
+  "name": "Lentupio g.",
+  "a_total": 15,
+  "a_info": 15
+ },
+ {
+  "nID": 22117,
+  "gID": 3,
+  "name": "L. Giros g.",
+  "a_total": 58,
+  "a_info": 58
+ },
+ {
+  "nID": 22135,
+  "gID": 17,
+  "name": "Liejyklos g.",
+  "a_total": 17,
+  "a_info": 16
+ },
+ {
+  "nID": 22138,
+  "gID": 12,
+  "name": "Liepyno g.",
+  "a_total": 21,
+  "a_info": 9
+ },
+ {
+  "nID": 22136,
+  "gID": 20,
+  "name": "Liepkalnio g.",
+  "a_total": 96,
+  "a_info": 96
+ },
+ {
+  "nID": 22137,
+  "gID": 19,
+  "name": "Liepto g.",
+  "a_total": 16,
+  "a_info": 16
+ },
+ {
+  "nID": 22139,
+  "gID": 19,
+  "name": "Liepų al.",
+  "a_total": 9,
+  "a_info": 9
+ },
+ {
+  "nID": 22140,
+  "gID": 17,
+  "name": "Ligoninės g.",
+  "a_total": 11,
+  "a_info": 10
+ },
+ {
+  "nID": 22141,
+  "gID": 8,
+  "name": "Linkmenų g.",
+  "a_total": 54,
+  "a_info": 8
+ },
+ {
+  "nID": 22142,
+  "gID": 19,
+  "name": "Linksmoji g.",
+  "a_total": 39,
+  "a_info": 0
+ },
+ {
+  "nID": 22143,
+  "gID": 19,
+  "name": "Linų g.",
+  "a_total": 11,
+  "a_info": 11
+ },
+ {
+  "nID": 22144,
+  "gID": 17,
+  "name": "Literatų g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22145,
+  "gID": 12,
+  "name": "Liubarto g.",
+  "a_total": 31,
+  "a_info": 19
+ },
+ {
+  "nID": 22146,
+  "gID": 13,
+  "name": "Liudvinavo g.",
+  "a_total": 127,
+  "a_info": 127
+ },
+ {
+  "nID": 22147,
+  "gID": 10,
+  "name": "Lizdeikos g.",
+  "a_total": 20,
+  "a_info": 0
+ },
+ {
+  "nID": 22155,
+  "gID": 17,
+  "name": "Lydos g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 22156,
+  "gID": 18,
+  "name": "Lyglaukių g.",
+  "a_total": 40,
+  "a_info": 40
+ },
+ {
+  "nID": 22149,
+  "gID": 1,
+  "name": "Lobio g.",
+  "a_total": 23,
+  "a_info": 17
+ },
+ {
+  "nID": 22150,
+  "gID": 12,
+  "name": "Lokių g.",
+  "a_total": 15,
+  "a_info": 8
+ },
+ {
+  "nID": 22119,
+  "gID": 10,
+  "name": "L. Sapiegos g.",
+  "a_total": 9,
+  "a_info": 0
+ },
+ {
+  "nID": 32004,
+  "gID": 17,
+  "name": "L. Stuokos-Gucevičiaus g.",
+  "a_total": 14,
+  "a_info": 14
+ },
+ {
+  "nID": 22153,
+  "gID": 16,
+  "name": "Lukiškių a.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22152,
+  "gID": 16,
+  "name": "Lukiškių g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 24718,
+  "gID": 16,
+  "name": "Lukiškių skg.",
+  "a_total": 9,
+  "a_info": 0
+ },
+ {
+  "nID": 22157,
+  "gID": 12,
+  "name": "Lūšių g.",
+  "a_total": 13,
+  "a_info": 5
+ },
+ {
+  "nID": 22154,
+  "gID": 8,
+  "name": "Lvovo g.",
+  "a_total": 92,
+  "a_info": 0
+ },
+ {
+  "nID": 22170,
+  "gID": 17,
+  "name": "Maironio g.",
+  "a_total": 48,
+  "a_info": 48
+ },
+ {
+  "nID": 22171,
+  "gID": 8,
+  "name": "Maišiagalos g.",
+  "a_total": 30,
+  "a_info": 28
+ },
+ {
+  "nID": 22040,
+  "gID": 12,
+  "name": "Malonioji g.",
+  "a_total": 23,
+  "a_info": 13
+ },
+ {
+  "nID": 22172,
+  "gID": 17,
+  "name": "Malūnų g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22159,
+  "gID": 17,
+  "name": "M. Antokolskio g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22174,
+  "gID": 16,
+  "name": "Marijampolės g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22175,
+  "gID": 18,
+  "name": "Markučių g.",
+  "a_total": 59,
+  "a_info": 0
+ },
+ {
+  "nID": 22176,
+  "gID": 10,
+  "name": "Maudyklos g.",
+  "a_total": 17,
+  "a_info": 0
+ },
+ {
+  "nID": 29259,
+  "gID": 1,
+  "name": "Maumedžių g.",
+  "a_total": 30,
+  "a_info": 20
+ },
+ {
+  "nID": 28364,
+  "gID": 19,
+  "name": "M. Balinskio g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22160,
+  "gID": 17,
+  "name": "M. Daukšos g.",
+  "a_total": 26,
+  "a_info": 0
+ },
+ {
+  "nID": 22258,
+  "gID": 17,
+  "name": "M. Dobužinskio g.",
+  "a_total": 10,
+  "a_info": 10
+ },
+ {
+  "nID": 28267,
+  "gID": 16,
+  "name": "Mečetės g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 22177,
+  "gID": 19,
+  "name": "Medaus g.",
+  "a_total": 37,
+  "a_info": 35
+ },
+ {
+  "nID": 22178,
+  "gID": 2,
+  "name": "Medeinos g.",
+  "a_total": 26,
+  "a_info": 23
+ },
+ {
+  "nID": 22179,
+  "gID": 18,
+  "name": "Medininkų g.",
+  "a_total": 11,
+  "a_info": 0
+ },
+ {
+  "nID": 22180,
+  "gID": 10,
+  "name": "Medžiotojų g.",
+  "a_total": 46,
+  "a_info": 0
+ },
+ {
+  "nID": 22185,
+  "gID": 20,
+  "name": "Merkinės g.",
+  "a_total": 12,
+  "a_info": 6
+ },
+ {
+  "nID": 22186,
+  "gID": 10,
+  "name": "Meškeriotojų g.",
+  "a_total": 34,
+  "a_info": 33
+ },
+ {
+  "nID": 22202,
+  "gID": 10,
+  "name": "Mėlynių g.",
+  "a_total": 16,
+  "a_info": 15
+ },
+ {
+  "nID": 22204,
+  "gID": 17,
+  "name": "Mėsinių g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 29739,
+  "gID": 1,
+  "name": "M. Horodničienės g.",
+  "a_total": 20,
+  "a_info": 16
+ },
+ {
+  "nID": 22182,
+  "gID": 17,
+  "name": "Mielagėnų g.",
+  "a_total": 2,
+  "a_info": 0
+ },
+ {
+  "nID": 22541,
+  "gID": 1,
+  "name": "Miežių g.",
+  "a_total": 19,
+  "a_info": 18
+ },
+ {
+  "nID": 22188,
+  "gID": 7,
+  "name": "Miglos g.",
+  "a_total": 46,
+  "a_info": 26
+ },
+ {
+  "nID": 22189,
+  "gID": 10,
+  "name": "Mildos g.",
+  "a_total": 31,
+  "a_info": 0
+ },
+ {
+  "nID": 22190,
+  "gID": 17,
+  "name": "Mindaugo g.",
+  "a_total": 57,
+  "a_info": 0
+ },
+ {
+  "nID": 22192,
+  "gID": 9,
+  "name": "Minties g.",
+  "a_total": 51,
+  "a_info": 50
+ },
+ {
+  "nID": 22194,
+  "gID": 14,
+  "name": "Miškinių g.",
+  "a_total": 27,
+  "a_info": 17
+ },
+ {
+  "nID": 22195,
+  "gID": 19,
+  "name": "Miško g.",
+  "a_total": 3,
+  "a_info": 0
+ },
+ {
+  "nID": 22165,
+  "gID": 9,
+  "name": "M. Katkaus g.",
+  "a_total": 18,
+  "a_info": 15
+ },
+ {
+  "nID": 22164,
+  "gID": 17,
+  "name": "M. K. Čiurlionio g.",
+  "a_total": 66,
+  "a_info": 66
+ },
+ {
+  "nID": 22163,
+  "gID": 10,
+  "name": "M. K. Oginskio g.",
+  "a_total": 30,
+  "a_info": 29
+ },
+ {
+  "nID": 29738,
+  "gID": 1,
+  "name": "M. Marcinkevičiaus g.",
+  "a_total": 43,
+  "a_info": 23
+ },
+ {
+  "nID": 22197,
+  "gID": 1,
+  "name": "Mokyklos g.",
+  "a_total": 46,
+  "a_info": 32
+ },
+ {
+  "nID": 22198,
+  "gID": 1,
+  "name": "Molėtų pl.",
+  "a_total": 13,
+  "a_info": 11
+ },
+ {
+  "nID": 22201,
+  "gID": 10,
+  "name": "M. Paco g.",
+  "a_total": 15,
+  "a_info": 0
+ },
+ {
+  "nID": 28029,
+  "gID": 3,
+  "name": "M. Sleževiciaus g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 24268,
+  "gID": 19,
+  "name": "M. Šikšnio g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 22199,
+  "gID": 16,
+  "name": "Muitinės g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22200,
+  "gID": 7,
+  "name": "Musninkų g.",
+  "a_total": 20,
+  "a_info": 0
+ },
+ {
+  "nID": 22206,
+  "gID": 19,
+  "name": "Mūrinė g.",
+  "a_total": 33,
+  "a_info": 0
+ },
+ {
+  "nID": 22169,
+  "gID": 16,
+  "name": "M. Valančiaus g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22207,
+  "gID": 18,
+  "name": "Naručio g.",
+  "a_total": 15,
+  "a_info": 15
+ },
+ {
+  "nID": 22209,
+  "gID": 17,
+  "name": "Naugarduko g.",
+  "a_total": 127,
+  "a_info": 112
+ },
+ {
+  "nID": 22210,
+  "gID": 1,
+  "name": "Naujakiemio g.",
+  "a_total": 56,
+  "a_info": 34
+ },
+ {
+  "nID": 22211,
+  "gID": 10,
+  "name": "Naujakurių g.",
+  "a_total": 41,
+  "a_info": 0
+ },
+ {
+  "nID": 48732,
+  "gID": 13,
+  "name": "Naujasodžių g.",
+  "a_total": 66,
+  "a_info": 66
+ },
+ {
+  "nID": 22212,
+  "gID": 20,
+  "name": "Naujininkų g.",
+  "a_total": 32,
+  "a_info": 32
+ },
+ {
+  "nID": 22213,
+  "gID": 19,
+  "name": "Naujoji g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 22214,
+  "gID": 10,
+  "name": "Nemenčinės pl.",
+  "a_total": 81,
+  "a_info": 0
+ },
+ {
+  "nID": 22045,
+  "gID": 16,
+  "name": "Nočios g.",
+  "a_total": 12,
+  "a_info": 12
+ },
+ {
+  "nID": 22217,
+  "gID": 10,
+  "name": "Nugalėtojų g.",
+  "a_total": 44,
+  "a_info": 0
+ },
+ {
+  "nID": 22218,
+  "gID": 17,
+  "name": "Odminių g.",
+  "a_total": 16,
+  "a_info": 0
+ },
+ {
+  "nID": 22219,
+  "gID": 18,
+  "name": "Olandų g.",
+  "a_total": 45,
+  "a_info": 42
+ },
+ {
+  "nID": 28269,
+  "gID": 10,
+  "name": "O. Milašiaus g.",
+  "a_total": 8,
+  "a_info": 8
+ },
+ {
+  "nID": 22221,
+  "gID": 8,
+  "name": "Ozo g.",
+  "a_total": 34,
+  "a_info": 34
+ },
+ {
+  "nID": 22227,
+  "gID": 7,
+  "name": "Paberžės g.",
+  "a_total": 22,
+  "a_info": 21
+ },
+ {
+  "nID": 22228,
+  "gID": 19,
+  "name": "Paeglinės g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 22230,
+  "gID": 4,
+  "name": "Pajautos g.",
+  "a_total": 7,
+  "a_info": 2
+ },
+ {
+  "nID": 22231,
+  "gID": 16,
+  "name": "Pakalnės g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22232,
+  "gID": 18,
+  "name": "Pakraščio g.",
+  "a_total": 14,
+  "a_info": 14
+ },
+ {
+  "nID": 22233,
+  "gID": 17,
+  "name": "Palangos g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22235,
+  "gID": 19,
+  "name": "Palydovo g.",
+  "a_total": 26,
+  "a_info": 0
+ },
+ {
+  "nID": 22237,
+  "gID": 16,
+  "name": "Pamėnkalnio g.",
+  "a_total": 40,
+  "a_info": 1
+ },
+ {
+  "nID": 22238,
+  "gID": 16,
+  "name": "Panerių g.",
+  "a_total": 120,
+  "a_info": 116
+ },
+ {
+  "nID": 22239,
+  "gID": 20,
+  "name": "Panevėžio g.",
+  "a_total": 32,
+  "a_info": 19
+ },
+ {
+  "nID": 22241,
+  "gID": 4,
+  "name": "Papilėnų g.",
+  "a_total": 23,
+  "a_info": 0
+ },
+ {
+  "nID": 22242,
+  "gID": 18,
+  "name": "Paplaujos g.",
+  "a_total": 43,
+  "a_info": 43
+ },
+ {
+  "nID": 22243,
+  "gID": 7,
+  "name": "Paribio g.",
+  "a_total": 36,
+  "a_info": 19
+ },
+ {
+  "nID": 22244,
+  "gID": 19,
+  "name": "Parko g.",
+  "a_total": 79,
+  "a_info": 0
+ },
+ {
+  "nID": 28274,
+  "gID": 14,
+  "name": "Parodų g.",
+  "a_total": 6,
+  "a_info": 6
+ },
+ {
+  "nID": 22245,
+  "gID": 10,
+  "name": "Pasakų g.",
+  "a_total": 12,
+  "a_info": 12
+ },
+ {
+  "nID": 24725,
+  "gID": 17,
+  "name": "Pasažo skg.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22250,
+  "gID": 2,
+  "name": "Pašilaičių g.",
+  "a_total": 34,
+  "a_info": 22
+ },
+ {
+  "nID": 22252,
+  "gID": 1,
+  "name": "Pašvaistės g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22246,
+  "gID": 17,
+  "name": "Paupio g.",
+  "a_total": 60,
+  "a_info": 0
+ },
+ {
+  "nID": 22247,
+  "gID": 10,
+  "name": "Pavasario g.",
+  "a_total": 39,
+  "a_info": 0
+ },
+ {
+  "nID": 22249,
+  "gID": 19,
+  "name": "Pavėsio g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22248,
+  "gID": 19,
+  "name": "Pavilnio g.",
+  "a_total": 20,
+  "a_info": 19
+ },
+ {
+  "nID": 28028,
+  "gID": 1,
+  "name": "P. Baublio g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 22253,
+  "gID": 20,
+  "name": "Pelesos g.",
+  "a_total": 43,
+  "a_info": 43
+ },
+ {
+  "nID": 22256,
+  "gID": 19,
+  "name": "Pergalės g.",
+  "a_total": 26,
+  "a_info": 0
+ },
+ {
+  "nID": 22535,
+  "gID": 20,
+  "name": "Perlojos g.",
+  "a_total": 15,
+  "a_info": 11
+ },
+ {
+  "nID": 22259,
+  "gID": 18,
+  "name": "Peteliškių g.",
+  "a_total": 24,
+  "a_info": 0
+ },
+ {
+  "nID": 22260,
+  "gID": 12,
+  "name": "Pieninės g.",
+  "a_total": 7,
+  "a_info": 6
+ },
+ {
+  "nID": 28276,
+  "gID": 1,
+  "name": "Pievų g.",
+  "a_total": 10,
+  "a_info": 8
+ },
+ {
+  "nID": 48800,
+  "gID": 4,
+  "name": "Piliakalnio g.",
+  "a_total": 7,
+  "a_info": 5
+ },
+ {
+  "nID": 22262,
+  "gID": 17,
+  "name": "Pilies g.",
+  "a_total": 60,
+  "a_info": 54
+ },
+ {
+  "nID": 22263,
+  "gID": 18,
+  "name": "Pipirų g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22264,
+  "gID": 18,
+  "name": "Pirčiupių g.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 22281,
+  "gID": 17,
+  "name": "Pylimo g.",
+  "a_total": 95,
+  "a_info": 0
+ },
+ {
+  "nID": 22222,
+  "gID": 16,
+  "name": "P. Klimo g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22265,
+  "gID": 17,
+  "name": "Plačioji g.",
+  "a_total": 5,
+  "a_info": 0
+ },
+ {
+  "nID": 22266,
+  "gID": 10,
+  "name": "Plytinės g.",
+  "a_total": 3,
+  "a_info": 0
+ },
+ {
+  "nID": 22267,
+  "gID": 19,
+  "name": "Plytų g.",
+  "a_total": 15,
+  "a_info": 0
+ },
+ {
+  "nID": 24279,
+  "gID": 9,
+  "name": "P. Lukšio g.",
+  "a_total": 11,
+  "a_info": 9
+ },
+ {
+  "nID": 22269,
+  "gID": 17,
+  "name": "Polocko g.",
+  "a_total": 56,
+  "a_info": 0
+ },
+ {
+  "nID": 22271,
+  "gID": 10,
+  "name": "Pragiedrulių g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22272,
+  "gID": 19,
+  "name": "Pramonės g.",
+  "a_total": 63,
+  "a_info": 0
+ },
+ {
+  "nID": 22273,
+  "gID": 17,
+  "name": "Pranciškonų g.",
+  "a_total": 9,
+  "a_info": 9
+ },
+ {
+  "nID": 22415,
+  "gID": 10,
+  "name": "P. Rimšos g.",
+  "a_total": 20,
+  "a_info": 0
+ },
+ {
+  "nID": 22275,
+  "gID": 20,
+  "name": "Prūsų g.",
+  "a_total": 28,
+  "a_info": 14
+ },
+ {
+  "nID": 21866,
+  "gID": 16,
+  "name": "P. Skorinos g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22276,
+  "gID": 20,
+  "name": "Pumpurų g.",
+  "a_total": 22,
+  "a_info": 16
+ },
+ {
+  "nID": 28278,
+  "gID": 16,
+  "name": "Punsko g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 22280,
+  "gID": 1,
+  "name": "Pušyno kelias",
+  "a_total": 23,
+  "a_info": 12
+ },
+ {
+  "nID": 21901,
+  "gID": 12,
+  "name": "Pušų g.",
+  "a_total": 55,
+  "a_info": 40
+ },
+ {
+  "nID": 22279,
+  "gID": 19,
+  "name": "Pūčkorių g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22224,
+  "gID": 10,
+  "name": "P. Vileišio g.",
+  "a_total": 48,
+  "a_info": 0
+ },
+ {
+  "nID": 22225,
+  "gID": 18,
+  "name": "P. Višinskio g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 22226,
+  "gID": 3,
+  "name": "P. Žadeikos g.",
+  "a_total": 24,
+  "a_info": 24
+ },
+ {
+  "nID": 22284,
+  "gID": 18,
+  "name": "Raguvos g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22286,
+  "gID": 9,
+  "name": "Raitininkų g.",
+  "a_total": 11,
+  "a_info": 10
+ },
+ {
+  "nID": 22288,
+  "gID": 18,
+  "name": "Ramybės g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22287,
+  "gID": 18,
+  "name": "Ramunių g.",
+  "a_total": 41,
+  "a_info": 41
+ },
+ {
+  "nID": 22061,
+  "gID": 16,
+  "name": "Raseinių g.",
+  "a_total": 15,
+  "a_info": 0
+ },
+ {
+  "nID": 22289,
+  "gID": 18,
+  "name": "Rasų g.",
+  "a_total": 39,
+  "a_info": 39
+ },
+ {
+  "nID": 22290,
+  "gID": 8,
+  "name": "Ratnyčios g.",
+  "a_total": 44,
+  "a_info": 0
+ },
+ {
+  "nID": 22291,
+  "gID": 10,
+  "name": "Rato g.",
+  "a_total": 30,
+  "a_info": 0
+ },
+ {
+  "nID": 22292,
+  "gID": 17,
+  "name": "Raugyklos g.",
+  "a_total": 15,
+  "a_info": 0
+ },
+ {
+  "nID": 22308,
+  "gID": 18,
+  "name": "Ribiškių Didžioji g.",
+  "a_total": 19,
+  "a_info": 19
+ },
+ {
+  "nID": 22309,
+  "gID": 18,
+  "name": "Ribiškių takas",
+  "a_total": 9,
+  "a_info": 9
+ },
+ {
+  "nID": 22295,
+  "gID": 20,
+  "name": "Riešutų g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22297,
+  "gID": 9,
+  "name": "Rinktinės g.",
+  "a_total": 66,
+  "a_info": 64
+ },
+ {
+  "nID": 22310,
+  "gID": 6,
+  "name": "Rygos g.",
+  "a_total": 46,
+  "a_info": 45
+ },
+ {
+  "nID": 22445,
+  "gID": 11,
+  "name": "R. Jankausko g.",
+  "a_total": 20,
+  "a_info": 20
+ },
+ {
+  "nID": 24719,
+  "gID": 19,
+  "name": "R. Mackonio g.",
+  "a_total": 18,
+  "a_info": 0
+ },
+ {
+  "nID": 22301,
+  "gID": 16,
+  "name": "Rožių al.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22302,
+  "gID": 20,
+  "name": "Rudaminos g.",
+  "a_total": 12,
+  "a_info": 8
+ },
+ {
+  "nID": 22303,
+  "gID": 18,
+  "name": "Rudens g.",
+  "a_total": 60,
+  "a_info": 60
+ },
+ {
+  "nID": 22304,
+  "gID": 8,
+  "name": "Rudnios g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22305,
+  "gID": 19,
+  "name": "Rugiagėlių g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22306,
+  "gID": 1,
+  "name": "Rugių g.",
+  "a_total": 33,
+  "a_info": 27
+ },
+ {
+  "nID": 22307,
+  "gID": 10,
+  "name": "Rukeliškių g.",
+  "a_total": 29,
+  "a_info": 0
+ },
+ {
+  "nID": 24731,
+  "gID": 17,
+  "name": "Rusų g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 22312,
+  "gID": 17,
+  "name": "Rūdninkų g.",
+  "a_total": 25,
+  "a_info": 0
+ },
+ {
+  "nID": 22313,
+  "gID": 10,
+  "name": "Rūtų g.",
+  "a_total": 22,
+  "a_info": 22
+ },
+ {
+  "nID": 22318,
+  "gID": 12,
+  "name": "Sakalų g.",
+  "a_total": 17,
+  "a_info": 14
+ },
+ {
+  "nID": 22321,
+  "gID": 12,
+  "name": "Saltoniškių g.",
+  "a_total": 35,
+  "a_info": 22
+ },
+ {
+  "nID": 22323,
+  "gID": 1,
+  "name": "Santariškių g.",
+  "a_total": 19,
+  "a_info": 12
+ },
+ {
+  "nID": 22324,
+  "gID": 8,
+  "name": "Saracėnų g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22325,
+  "gID": 18,
+  "name": "Saulėgrąžų g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 22326,
+  "gID": 10,
+  "name": "Saulės g.",
+  "a_total": 44,
+  "a_info": 0
+ },
+ {
+  "nID": 22327,
+  "gID": 10,
+  "name": "Saulėtekio al.",
+  "a_total": 45,
+  "a_info": 1
+ },
+ {
+  "nID": 24286,
+  "gID": 11,
+  "name": "Sausio 13-osios g.",
+  "a_total": 41,
+  "a_info": 41
+ },
+ {
+  "nID": 22328,
+  "gID": 16,
+  "name": "Savanorių pr.",
+  "a_total": 199,
+  "a_info": 194
+ },
+ {
+  "nID": 22329,
+  "gID": 17,
+  "name": "Savičiaus g.",
+  "a_total": 22,
+  "a_info": 0
+ },
+ {
+  "nID": 22314,
+  "gID": 15,
+  "name": "S. B. Jundzilo g.",
+  "a_total": 1,
+  "a_info": 0
+ },
+ {
+  "nID": 22315,
+  "gID": 17,
+  "name": "S. Daukanto a.",
+  "a_total": 3,
+  "a_info": 3
+ },
+ {
+  "nID": 28282,
+  "gID": 16,
+  "name": "Seinų g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 22368,
+  "gID": 12,
+  "name": "Sėlių g.",
+  "a_total": 49,
+  "a_info": 29
+ },
+ {
+  "nID": 21980,
+  "gID": 8,
+  "name": "S. Fino g.",
+  "a_total": 4,
+  "a_info": 4
+ },
+ {
+  "nID": 22330,
+  "gID": 18,
+  "name": "Sibiro g.",
+  "a_total": 40,
+  "a_info": 40
+ },
+ {
+  "nID": 22331,
+  "gID": 7,
+  "name": "Siesikų g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22332,
+  "gID": 11,
+  "name": "Sietyno g.",
+  "a_total": 6,
+  "a_info": 6
+ },
+ {
+  "nID": 22335,
+  "gID": 19,
+  "name": "Skardžio g.",
+  "a_total": 16,
+  "a_info": 0
+ },
+ {
+  "nID": 22339,
+  "gID": 19,
+  "name": "Skydo g.",
+  "a_total": 17,
+  "a_info": 0
+ },
+ {
+  "nID": 22316,
+  "gID": 16,
+  "name": "S. Konarskio g.",
+  "a_total": 56,
+  "a_info": 55
+ },
+ {
+  "nID": 22337,
+  "gID": 15,
+  "name": "Skroblų g.",
+  "a_total": 23,
+  "a_info": 21
+ },
+ {
+  "nID": 22338,
+  "gID": 18,
+  "name": "Skudučių g.",
+  "a_total": 8,
+  "a_info": 8
+ },
+ {
+  "nID": 22342,
+  "gID": 18,
+  "name": "Slėnio g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22340,
+  "gID": 8,
+  "name": "Slucko g.",
+  "a_total": 11,
+  "a_info": 11
+ },
+ {
+  "nID": 22343,
+  "gID": 4,
+  "name": "Smalinės g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22346,
+  "gID": 10,
+  "name": "Smėlio g.",
+  "a_total": 28,
+  "a_info": 0
+ },
+ {
+  "nID": 22345,
+  "gID": 17,
+  "name": "Smolensko g.",
+  "a_total": 27,
+  "a_info": 0
+ },
+ {
+  "nID": 22317,
+  "gID": 12,
+  "name": "S. Moniuškos g.",
+  "a_total": 58,
+  "a_info": 39
+ },
+ {
+  "nID": 22347,
+  "gID": 20,
+  "name": "Sniego g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 22348,
+  "gID": 19,
+  "name": "Sodelių g.",
+  "a_total": 9,
+  "a_info": 0
+ },
+ {
+  "nID": 22349,
+  "gID": 17,
+  "name": "Sodų g.",
+  "a_total": 35,
+  "a_info": 0
+ },
+ {
+  "nID": 48830,
+  "gID": 19,
+  "name": "Sodų g.",
+  "a_total": 17,
+  "a_info": 0
+ },
+ {
+  "nID": 22351,
+  "gID": 20,
+  "name": "Sparno g.",
+  "a_total": 5,
+  "a_info": 4
+ },
+ {
+  "nID": 22352,
+  "gID": 9,
+  "name": "Sporto g.",
+  "a_total": 16,
+  "a_info": 13
+ },
+ {
+  "nID": 24266,
+  "gID": 19,
+  "name": "S. Raštikio g.",
+  "a_total": 23,
+  "a_info": 0
+ },
+ {
+  "nID": 22353,
+  "gID": 18,
+  "name": "Srovės g.",
+  "a_total": 21,
+  "a_info": 21
+ },
+ {
+  "nID": 22334,
+  "gID": 17,
+  "name": "S. Skapo g.",
+  "a_total": 14,
+  "a_info": 13
+ },
+ {
+  "nID": 22333,
+  "gID": 3,
+  "name": "S. Stanevičiaus g.",
+  "a_total": 98,
+  "a_info": 98
+ },
+ {
+  "nID": 22354,
+  "gID": 18,
+  "name": "Stadiono g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22355,
+  "gID": 18,
+  "name": "Stalių g.",
+  "a_total": 13,
+  "a_info": 0
+ },
+ {
+  "nID": 22356,
+  "gID": 16,
+  "name": "Statybininkų g.",
+  "a_total": 8,
+  "a_info": 1
+ },
+ {
+  "nID": 24259,
+  "gID": 19,
+  "name": "Stepono Batoro g.",
+  "a_total": 70,
+  "a_info": 70
+ },
+ {
+  "nID": 22357,
+  "gID": 17,
+  "name": "Stiklių g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 30520,
+  "gID": 12,
+  "name": "Stirnų g.",
+  "a_total": 15,
+  "a_info": 15
+ },
+ {
+  "nID": 22360,
+  "gID": 8,
+  "name": "Studentų g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 22361,
+  "gID": 12,
+  "name": "Stumbrų g.",
+  "a_total": 19,
+  "a_info": 16
+ },
+ {
+  "nID": 22362,
+  "gID": 18,
+  "name": "Subačiaus g.",
+  "a_total": 115,
+  "a_info": 115
+ },
+ {
+  "nID": 22364,
+  "gID": 6,
+  "name": "Sudervės kelias",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 22365,
+  "gID": 18,
+  "name": "Sukilėlių g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 22366,
+  "gID": 16,
+  "name": "Suvalkų g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22367,
+  "gID": 10,
+  "name": "Svajonių g.",
+  "a_total": 26,
+  "a_info": 0
+ },
+ {
+  "nID": 22477,
+  "gID": 17,
+  "name": "Šaltinių g.",
+  "a_total": 19,
+  "a_info": 19
+ },
+ {
+  "nID": 22478,
+  "gID": 20,
+  "name": "Šaltkalvių g.",
+  "a_total": 24,
+  "a_info": 19
+ },
+ {
+  "nID": 22479,
+  "gID": 14,
+  "name": "Šaltūnų g.",
+  "a_total": 35,
+  "a_info": 25
+ },
+ {
+  "nID": 22481,
+  "gID": 18,
+  "name": "Šarkų g.",
+  "a_total": 23,
+  "a_info": 23
+ },
+ {
+  "nID": 22482,
+  "gID": 8,
+  "name": "Šatrijos g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22483,
+  "gID": 9,
+  "name": "Šeimyniškių g.",
+  "a_total": 40,
+  "a_info": 35
+ },
+ {
+  "nID": 22484,
+  "gID": 16,
+  "name": "Šermukšnių g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 22486,
+  "gID": 13,
+  "name": "Šešėlių g.",
+  "a_total": 33,
+  "a_info": 33
+ },
+ {
+  "nID": 22485,
+  "gID": 7,
+  "name": "Šeškinės g.",
+  "a_total": 50,
+  "a_info": 0
+ },
+ {
+  "nID": 22489,
+  "gID": 17,
+  "name": "Šiaulių g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22490,
+  "gID": 19,
+  "name": "Šiaurės g.",
+  "a_total": 26,
+  "a_info": 26
+ },
+ {
+  "nID": 22492,
+  "gID": 10,
+  "name": "Šilo g.",
+  "a_total": 75,
+  "a_info": 1
+ },
+ {
+  "nID": 22536,
+  "gID": 17,
+  "name": "Šiltadaržio g.",
+  "a_total": 10,
+  "a_info": 10
+ },
+ {
+  "nID": 22494,
+  "gID": 8,
+  "name": "Šilutės g.",
+  "a_total": 49,
+  "a_info": 0
+ },
+ {
+  "nID": 22497,
+  "gID": 19,
+  "name": "Širšių g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 22496,
+  "gID": 8,
+  "name": "Širvintų g.",
+  "a_total": 73,
+  "a_info": 0
+ },
+ {
+  "nID": 28287,
+  "gID": 8,
+  "name": "Šnipiškių g.",
+  "a_total": 6,
+  "a_info": 3
+ },
+ {
+  "nID": 22504,
+  "gID": 17,
+  "name": "Švarco g.",
+  "a_total": 4,
+  "a_info": 0
+ },
+ {
+  "nID": 22505,
+  "gID": 19,
+  "name": "Švarioji g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 22498,
+  "gID": 17,
+  "name": "Šv. Dvasios g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22506,
+  "gID": 17,
+  "name": "Švenčionių g.",
+  "a_total": 28,
+  "a_info": 0
+ },
+ {
+  "nID": 22035,
+  "gID": 17,
+  "name": "Šventaragio g.",
+  "a_total": 3,
+  "a_info": 0
+ },
+ {
+  "nID": 22507,
+  "gID": 16,
+  "name": "Šviesos g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22502,
+  "gID": 17,
+  "name": "Šv. Ignoto g.",
+  "a_total": 20,
+  "a_info": 20
+ },
+ {
+  "nID": 22417,
+  "gID": 16,
+  "name": "Švitrigailos g.",
+  "a_total": 44,
+  "a_info": 0
+ },
+ {
+  "nID": 22508,
+  "gID": 10,
+  "name": "Švyturio g.",
+  "a_total": 24,
+  "a_info": 23
+ },
+ {
+  "nID": 22503,
+  "gID": 17,
+  "name": "Šv. Jono g.",
+  "a_total": 17,
+  "a_info": 17
+ },
+ {
+  "nID": 22499,
+  "gID": 17,
+  "name": "Šv. Kazimiero g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 22500,
+  "gID": 17,
+  "name": "Šv. Mikalojaus g.",
+  "a_total": 14,
+  "a_info": 12
+ },
+ {
+  "nID": 22538,
+  "gID": 17,
+  "name": "Šv. Mykolo g.",
+  "a_total": 19,
+  "a_info": 0
+ },
+ {
+  "nID": 22501,
+  "gID": 17,
+  "name": "Šv. Stepono g.",
+  "a_total": 68,
+  "a_info": 68
+ },
+ {
+  "nID": 22375,
+  "gID": 5,
+  "name": "Taikos g.",
+  "a_total": 270,
+  "a_info": 0
+ },
+ {
+  "nID": 22376,
+  "gID": 19,
+  "name": "Tako g.",
+  "a_total": 16,
+  "a_info": 0
+ },
+ {
+  "nID": 22377,
+  "gID": 20,
+  "name": "Tarpkalnio g.",
+  "a_total": 34,
+  "a_info": 18
+ },
+ {
+  "nID": 22378,
+  "gID": 8,
+  "name": "Tauragnų g.",
+  "a_total": 9,
+  "a_info": 5
+ },
+ {
+  "nID": 22379,
+  "gID": 16,
+  "name": "Tauro g.",
+  "a_total": 7,
+  "a_info": 0
+ },
+ {
+  "nID": 30524,
+  "gID": 16,
+  "name": "Tauro g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22380,
+  "gID": 17,
+  "name": "Teatro g.",
+  "a_total": 14,
+  "a_info": 14
+ },
+ {
+  "nID": 22381,
+  "gID": 20,
+  "name": "Telšių g.",
+  "a_total": 12,
+  "a_info": 7
+ },
+ {
+  "nID": 22382,
+  "gID": 17,
+  "name": "Tilto g.",
+  "a_total": 46,
+  "a_info": 38
+ },
+ {
+  "nID": 29992,
+  "gID": 16,
+  "name": "Tylioji g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22403,
+  "gID": 20,
+  "name": "Tyzenhauzų g.",
+  "a_total": 51,
+  "a_info": 51
+ },
+ {
+  "nID": 22370,
+  "gID": 17,
+  "name": "T. Kosciuškos g.",
+  "a_total": 50,
+  "a_info": 0
+ },
+ {
+  "nID": 22371,
+  "gID": 12,
+  "name": "T. Narbuto g.",
+  "a_total": 2,
+  "a_info": 1
+ },
+ {
+  "nID": 22385,
+  "gID": 19,
+  "name": "Tolimoji g.",
+  "a_total": 94,
+  "a_info": 0
+ },
+ {
+  "nID": 22386,
+  "gID": 4,
+  "name": "Tolminkiemio g.",
+  "a_total": 13,
+  "a_info": 0
+ },
+ {
+  "nID": 22387,
+  "gID": 19,
+  "name": "Topolių g.",
+  "a_total": 10,
+  "a_info": 0
+ },
+ {
+  "nID": 22388,
+  "gID": 17,
+  "name": "Totorių g.",
+  "a_total": 42,
+  "a_info": 0
+ },
+ {
+  "nID": 22039,
+  "gID": 12,
+  "name": "Traidenio g.",
+  "a_total": 40,
+  "a_info": 25
+ },
+ {
+  "nID": 22389,
+  "gID": 17,
+  "name": "Trakų g.",
+  "a_total": 32,
+  "a_info": 29
+ },
+ {
+  "nID": 22390,
+  "gID": 10,
+  "name": "Tramvajų g.",
+  "a_total": 12,
+  "a_info": 0
+ },
+ {
+  "nID": 24284,
+  "gID": 19,
+  "name": "Tremtinių g.",
+  "a_total": 1,
+  "a_info": 0
+ },
+ {
+  "nID": 22391,
+  "gID": 12,
+  "name": "Treniotos g.",
+  "a_total": 52,
+  "a_info": 34
+ },
+ {
+  "nID": 22392,
+  "gID": 9,
+  "name": "Trimitų g.",
+  "a_total": 9,
+  "a_info": 9
+ },
+ {
+  "nID": 22373,
+  "gID": 16,
+  "name": "T. Ševčenkos g.",
+  "a_total": 27,
+  "a_info": 0
+ },
+ {
+  "nID": 22393,
+  "gID": 6,
+  "name": "Tujų g.",
+  "a_total": 18,
+  "a_info": 18
+ },
+ {
+  "nID": 22394,
+  "gID": 19,
+  "name": "Tulpių g.",
+  "a_total": 3,
+  "a_info": 2
+ },
+ {
+  "nID": 22396,
+  "gID": 19,
+  "name": "Tuputiškių g.",
+  "a_total": 16,
+  "a_info": 16
+ },
+ {
+  "nID": 22397,
+  "gID": 18,
+  "name": "Turgelių g.",
+  "a_total": 2,
+  "a_info": 2
+ },
+ {
+  "nID": 22399,
+  "gID": 10,
+  "name": "Turniškių g.",
+  "a_total": 38,
+  "a_info": 36
+ },
+ {
+  "nID": 22400,
+  "gID": 9,
+  "name": "Tuskulėnų g.",
+  "a_total": 74,
+  "a_info": 0
+ },
+ {
+  "nID": 22401,
+  "gID": 10,
+  "name": "Tverečiaus g.",
+  "a_total": 19,
+  "a_info": 0
+ },
+ {
+  "nID": 22372,
+  "gID": 17,
+  "name": "T. Vrublevskio g.",
+  "a_total": 13,
+  "a_info": 13
+ },
+ {
+  "nID": 22404,
+  "gID": 8,
+  "name": "Ukmergės g.",
+  "a_total": 110,
+  "a_info": 110
+ },
+ {
+  "nID": 22406,
+  "gID": 17,
+  "name": "Universiteto g.",
+  "a_total": 28,
+  "a_info": 28
+ },
+ {
+  "nID": 22409,
+  "gID": 8,
+  "name": "Upės g.",
+  "a_total": 7,
+  "a_info": 5
+ },
+ {
+  "nID": 22408,
+  "gID": 7,
+  "name": "Upytės g.",
+  "a_total": 30,
+  "a_info": 0
+ },
+ {
+  "nID": 22410,
+  "gID": 8,
+  "name": "Utenos g.",
+  "a_total": 26,
+  "a_info": 0
+ },
+ {
+  "nID": 22411,
+  "gID": 19,
+  "name": "Užkiemio g.",
+  "a_total": 14,
+  "a_info": 0
+ },
+ {
+  "nID": 28247,
+  "gID": 19,
+  "name": "Užtvankos g.",
+  "a_total": 10,
+  "a_info": 10
+ },
+ {
+  "nID": 22412,
+  "gID": 17,
+  "name": "Užupio g.",
+  "a_total": 62,
+  "a_info": 58
+ },
+ {
+  "nID": 49222,
+  "gID": 19,
+  "name": "V. A. Graičiūno g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22422,
+  "gID": 10,
+  "name": "Vaidilutės g.",
+  "a_total": 8,
+  "a_info": 8
+ },
+ {
+  "nID": 22424,
+  "gID": 19,
+  "name": "Vaisių g.",
+  "a_total": 25,
+  "a_info": 0
+ },
+ {
+  "nID": 22425,
+  "gID": 19,
+  "name": "Vaismedžių g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 22426,
+  "gID": 20,
+  "name": "Vaivorykštės g.",
+  "a_total": 11,
+  "a_info": 11
+ },
+ {
+  "nID": 22428,
+  "gID": 10,
+  "name": "Valakupių g.",
+  "a_total": 12,
+  "a_info": 12
+ },
+ {
+  "nID": 22429,
+  "gID": 19,
+  "name": "Vandens g.",
+  "a_total": 36,
+  "a_info": 0
+ },
+ {
+  "nID": 22430,
+  "gID": 15,
+  "name": "Vandentiekio g.",
+  "a_total": 43,
+  "a_info": 43
+ },
+ {
+  "nID": 22433,
+  "gID": 20,
+  "name": "Varėnos g.",
+  "a_total": 13,
+  "a_info": 8
+ },
+ {
+  "nID": 22432,
+  "gID": 17,
+  "name": "Varpų g.",
+  "a_total": 4,
+  "a_info": 0
+ },
+ {
+  "nID": 22434,
+  "gID": 18,
+  "name": "Varšuvos g.",
+  "a_total": 30,
+  "a_info": 0
+ },
+ {
+  "nID": 22435,
+  "gID": 16,
+  "name": "Vasario 16-osios g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 22436,
+  "gID": 10,
+  "name": "Vasaros g.",
+  "a_total": 40,
+  "a_info": 0
+ },
+ {
+  "nID": 22257,
+  "gID": 11,
+  "name": "V. Druskio g.",
+  "a_total": 26,
+  "a_info": 25
+ },
+ {
+  "nID": 22438,
+  "gID": 18,
+  "name": "Veiverių g.",
+  "a_total": 6,
+  "a_info": 6
+ },
+ {
+  "nID": 22439,
+  "gID": 8,
+  "name": "Veprių g.",
+  "a_total": 13,
+  "a_info": 0
+ },
+ {
+  "nID": 22442,
+  "gID": 9,
+  "name": "Verkių g.",
+  "a_total": 224,
+  "a_info": 204
+ },
+ {
+  "nID": 22443,
+  "gID": 18,
+  "name": "Verslo g.",
+  "a_total": 15,
+  "a_info": 15
+ },
+ {
+  "nID": 22444,
+  "gID": 19,
+  "name": "Versmių g.",
+  "a_total": 46,
+  "a_info": 0
+ },
+ {
+  "nID": 22414,
+  "gID": 10,
+  "name": "V. Grybo g.",
+  "a_total": 30,
+  "a_info": 0
+ },
+ {
+  "nID": 22446,
+  "gID": 18,
+  "name": "Vieversių g.",
+  "a_total": 17,
+  "a_info": 0
+ },
+ {
+  "nID": 24741,
+  "gID": 15,
+  "name": "Vilkpėdės g.",
+  "a_total": 35,
+  "a_info": 27
+ },
+ {
+  "nID": 22449,
+  "gID": 18,
+  "name": "Vilnelės g.",
+  "a_total": 35,
+  "a_info": 35
+ },
+ {
+  "nID": 26748,
+  "gID": 17,
+  "name": "Vilniaus g.",
+  "a_total": 45,
+  "a_info": 45
+ },
+ {
+  "nID": 22451,
+  "gID": 17,
+  "name": "Vingrių g.",
+  "a_total": 27,
+  "a_info": 24
+ },
+ {
+  "nID": 22452,
+  "gID": 6,
+  "name": "Viršuliškių g.",
+  "a_total": 68,
+  "a_info": 41
+ },
+ {
+  "nID": 22453,
+  "gID": 6,
+  "name": "Viršuliškių skg.",
+  "a_total": 17,
+  "a_info": 17
+ },
+ {
+  "nID": 22457,
+  "gID": 3,
+  "name": "Visorių g.",
+  "a_total": 19,
+  "a_info": 19
+ },
+ {
+  "nID": 22458,
+  "gID": 17,
+  "name": "Visų Šventųjų g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 22459,
+  "gID": 17,
+  "name": "Vitebsko g.",
+  "a_total": 16,
+  "a_info": 0
+ },
+ {
+  "nID": 22462,
+  "gID": 4,
+  "name": "Vydūno g.",
+  "a_total": 18,
+  "a_info": 1
+ },
+ {
+  "nID": 22463,
+  "gID": 12,
+  "name": "Vykinto g.",
+  "a_total": 29,
+  "a_info": 15
+ },
+ {
+  "nID": 22466,
+  "gID": 20,
+  "name": "Vyšnių g.",
+  "a_total": 5,
+  "a_info": 5
+ },
+ {
+  "nID": 22464,
+  "gID": 12,
+  "name": "Vytauto g.",
+  "a_total": 60,
+  "a_info": 38
+ },
+ {
+  "nID": 22465,
+  "gID": 16,
+  "name": "Vytenio g.",
+  "a_total": 43,
+  "a_info": 0
+ },
+ {
+  "nID": 22416,
+  "gID": 16,
+  "name": "V. Kudirkos g.",
+  "a_total": 17,
+  "a_info": 16
+ },
+ {
+  "nID": 22363,
+  "gID": 11,
+  "name": "V. Maciulevičiaus g.",
+  "a_total": 21,
+  "a_info": 21
+ },
+ {
+  "nID": 22418,
+  "gID": 16,
+  "name": "V. Mykolaičio-Putino g.",
+  "a_total": 4,
+  "a_info": 4
+ },
+ {
+  "nID": 22460,
+  "gID": 17,
+  "name": "Vokiečių g.",
+  "a_total": 32,
+  "a_info": 1
+ },
+ {
+  "nID": 22461,
+  "gID": 10,
+  "name": "Volungės g.",
+  "a_total": 16,
+  "a_info": 0
+ },
+ {
+  "nID": 22419,
+  "gID": 16,
+  "name": "V. Pietario g.",
+  "a_total": 7,
+  "a_info": 7
+ },
+ {
+  "nID": 22420,
+  "gID": 19,
+  "name": "V. Sirokomlės g.",
+  "a_total": 40,
+  "a_info": 38
+ },
+ {
+  "nID": 21976,
+  "gID": 17,
+  "name": "V. Šopeno g.",
+  "a_total": 11,
+  "a_info": 11
+ },
+ {
+  "nID": 22203,
+  "gID": 11,
+  "name": "V. Vaitkaus g.",
+  "a_total": 21,
+  "a_info": 21
+ },
+ {
+  "nID": 28292,
+  "gID": 20,
+  "name": "Zanavykų g.",
+  "a_total": 10,
+  "a_info": 6
+ },
+ {
+  "nID": 22470,
+  "gID": 17,
+  "name": "Zarasų g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 24270,
+  "gID": 19,
+  "name": "Zavadskių g.",
+  "a_total": 8,
+  "a_info": 0
+ },
+ {
+  "nID": 28293,
+  "gID": 15,
+  "name": "Zietelos g.",
+  "a_total": 18,
+  "a_info": 16
+ },
+ {
+  "nID": 22469,
+  "gID": 16,
+  "name": "Z. Sierakausko g.",
+  "a_total": 17,
+  "a_info": 0
+ },
+ {
+  "nID": 22510,
+  "gID": 9,
+  "name": "Žalgirio g.",
+  "a_total": 40,
+  "a_info": 36
+ },
+ {
+  "nID": 22511,
+  "gID": 19,
+  "name": "Žaliakalnio g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 22512,
+  "gID": 12,
+  "name": "Žalioji g.",
+  "a_total": 14,
+  "a_info": 13
+ },
+ {
+  "nID": 22398,
+  "gID": 1,
+  "name": "Žaliųjų Ežerų g.",
+  "a_total": 41,
+  "a_info": 26
+ },
+ {
+  "nID": 22513,
+  "gID": 8,
+  "name": "Želvos g.",
+  "a_total": 27,
+  "a_info": 25
+ },
+ {
+  "nID": 22515,
+  "gID": 16,
+  "name": "Žemaitės g.",
+  "a_total": 20,
+  "a_info": 20
+ },
+ {
+  "nID": 22514,
+  "gID": 17,
+  "name": "Žemaitijos g.",
+  "a_total": 18,
+  "a_info": 18
+ },
+ {
+  "nID": 22516,
+  "gID": 12,
+  "name": "Žemgalių g.",
+  "a_total": 13,
+  "a_info": 9
+ },
+ {
+  "nID": 22518,
+  "gID": 2,
+  "name": "Žemynos g.",
+  "a_total": 38,
+  "a_info": 27
+ },
+ {
+  "nID": 22517,
+  "gID": 19,
+  "name": "Žemoji g.",
+  "a_total": 37,
+  "a_info": 0
+ },
+ {
+  "nID": 29367,
+  "gID": 1,
+  "name": "Žemuogių g.",
+  "a_total": 13,
+  "a_info": 7
+ },
+ {
+  "nID": 22534,
+  "gID": 14,
+  "name": "Žėručio g.",
+  "a_total": 18,
+  "a_info": 15
+ },
+ {
+  "nID": 22519,
+  "gID": 18,
+  "name": "Žibuoklių g.",
+  "a_total": 49,
+  "a_info": 49
+ },
+ {
+  "nID": 22520,
+  "gID": 19,
+  "name": "Žiedų g.",
+  "a_total": 13,
+  "a_info": 0
+ },
+ {
+  "nID": 22521,
+  "gID": 19,
+  "name": "Žilvičių g.",
+  "a_total": 46,
+  "a_info": 0
+ },
+ {
+  "nID": 22522,
+  "gID": 18,
+  "name": "Žiogų g.",
+  "a_total": 26,
+  "a_info": 26
+ },
+ {
+  "nID": 22523,
+  "gID": 10,
+  "name": "Žirgo g.",
+  "a_total": 33,
+  "a_info": 0
+ },
+ {
+  "nID": 22524,
+  "gID": 9,
+  "name": "Žirmūnų g.",
+  "a_total": 223,
+  "a_info": 16
+ },
+ {
+  "nID": 22525,
+  "gID": 20,
+  "name": "Žirnių g.",
+  "a_total": 19,
+  "a_info": 16
+ },
+ {
+  "nID": 28294,
+  "gID": 17,
+  "name": "Žiupronių g.",
+  "a_total": 3,
+  "a_info": 0
+ },
+ {
+  "nID": 22531,
+  "gID": 17,
+  "name": "Žydų g.",
+  "a_total": 5,
+  "a_info": 0
+ },
+ {
+  "nID": 22532,
+  "gID": 17,
+  "name": "Žygimantų g.",
+  "a_total": 21,
+  "a_info": 0
+ },
+ {
+  "nID": 22533,
+  "gID": 9,
+  "name": "Žygio g.",
+  "a_total": 36,
+  "a_info": 28
+ },
+ {
+  "nID": 28035,
+  "gID": 17,
+  "name": "Ž. Liauksmino g.",
+  "a_total": 6,
+  "a_info": 0
+ },
+ {
+  "nID": 22526,
+  "gID": 10,
+  "name": "Žolyno g.",
+  "a_total": 45,
+  "a_info": 0
+ },
+ {
+  "nID": 22527,
+  "gID": 10,
+  "name": "Žuvėdrų g.",
+  "a_total": 39,
+  "a_info": 39
+ },
+ {
+  "nID": 24280,
+  "gID": 9,
+  "name": "Žvalgų g.",
+  "a_total": 20,
+  "a_info": 20
+ },
+ {
+  "nID": 22529,
+  "gID": 9,
+  "name": "Žvejų g.",
+  "a_total": 7,
+  "a_info": 6
+ },
+ {
+  "nID": 28295,
+  "gID": 19,
+  "name": "Žvirblių g.",
+  "a_total": 1,
+  "a_info": 1
+ },
+ {
+  "nID": 22530,
+  "gID": 17,
+  "name": "Žvirgždyno g.",
+  "a_total": 11,
+  "a_info": 0
+ }
+]

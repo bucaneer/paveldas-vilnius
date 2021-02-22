@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="lt">
+    <head>
+        <meta charset="utf-8" />
+        <title>Pastatų paieška - "Baltic InterSave Vilnius"</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body dir="ltr">
+        <aside id="sidebar">
+            <h2>Pastatų paieška</h2>
+            <h3><a href="index.html">Baltic InterSave Vilnius</a></h3>
+            <ul>
+                <li><a href="photos.html">Nuotraukos</a></li>
+            </ul>
+            <hr>
+            <h6>Vertinimų reikšmės:</h6>
+            <small>
+                <ul>
+                    <li>1-3 Gerai</li>
+                    <li>4-6 Vidutiniškai</li>
+                    <li>7-9 Prastai</li>
+                </ul>
+            </small>
+        </aside>
+        <main>
+            <div id="filters-container">
+                <div id="seniunijos-filter" class="box">
+                    <h4>Seniūnijos <div class="loader" data-selector="seniunijos-container"></div></h4>
+                    <label class="select-all">
+                        <input type="checkbox" id="all_seniunijos">
+                        <span>Pažymėti visus <div class="loader" hidden></div></span>
+                    </label>
+                    <div class="list-container box-inset">
+                        <ul id="seniunijos-container"></ul>
+                    </div>
+                </div>
+                <div id="gatves-filter" class="box">
+                    <h4>Gatvės <div class="loader" data-selector="gatves-container"></div></h4>
+                    <label class="select-all">
+                        <input type="checkbox" id="all_gatves">
+                        <span>Pažymėti visus <div class="loader" hidden></div></span>
+                    </label>
+                    <div class="list-container box-inset">
+                        <ul id="gatves-container"></ul>
+                    </div>
+                </div>
+                <div id="adresai-filter" class="box">
+                    <h4>Adresai <div class="loader" data-selector="adresai-container"></div></h4>
+                    <label class="select-all">
+                        <input type="checkbox" id="all_adresai">
+                        <span>Pažymėti visus <div class="loader" hidden></div></span>
+                    </label>
+                    <div class="list-container box-inset">
+                        <ul id="adresai-container"></ul>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div id="results-container">
+                <div class="loader" data-selector="results-list"></div>
+                <ul id="results-list">
+                    <li id="result-template" hidden>
+                        <div class="result box">
+                            <h4><span class="r-adresas"></span></h4>
+                            <div class="info-columns">
+                                <div class="column box-inset">
+                                    <h5>Pagrindinė informacija</h5>
+                                    <ul>
+                                        <li><strong>Periodas</strong> <span class="r-period"></span></li>
+                                        <li><strong>Stilius</strong> <span class="r-style"></span></li>
+                                        <li><strong>Paskirtis</strong> <span class="r-purpose"></span></li>
+                                        <li><strong>Aukštų sk.</strong> <span class="r-floors"></span></li>
+                                    </ul>
+                                </div>
+                                <div class="column narrow box-inset">
+                                    <h5>Vertinimas</h5>
+                                    <ul>
+                                        <li><strong>Architektūrinė vertė</strong> <span class="r-arch_v"></span></li>
+                                        <li><strong>Kultūrinė svarba</strong> <span class="r-cult_v"></span></li>
+                                        <li><strong>Svarba aplinkai</strong> <span class="r-envir_v"></span></li>
+                                        <li><strong>Autentiškumo vertė</strong> <span class="r-orig_v"></span></li>
+                                        <li><strong>Atkūrimo reikšmė</strong> <span class="r-estab_v"></span></li>
+                                        <li><strong>Išsaugojimo reikšmė</strong> <span class="r-pressrv_v"></span></li>
+                                    </ul>
+                                </div>
+                                <div class="column narrow box-inset">
+                                    <h5>Techninis įvertinimas</h5>
+                                    <ul>
+                                        <li><strong>Sienų būklė</strong> <span class="r-wall_c"></span></li>
+                                        <li><strong>Stogo būklė</strong> <span class="r-roof_c"></span></li>
+                                        <li><strong>Langų / dūrų būklė</strong> <span class="r-windows_c"></span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="photo-container">
+                                <p class="missing-photo-alert"><strong>Trūksta nuotraukų: <span class="r-photo_count"></span></strong></p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </main>
+    </body>
+    <script async src="script.js"></script>
+</html>

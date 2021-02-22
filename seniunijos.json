@@ -1,0 +1,122 @@
+[
+ {
+  "gID": 10,
+  "name": "Antakalnis",
+  "a_total": 1636,
+  "a_info": 429
+ },
+ {
+  "gID": 3,
+  "name": "Fabijoniškės",
+  "a_total": 501,
+  "a_info": 487
+ },
+ {
+  "gID": 5,
+  "name": "Justiniškės",
+  "a_total": 270,
+  "a_info": 0
+ },
+ {
+  "gID": 11,
+  "name": "Karoliniškės",
+  "a_total": 297,
+  "a_info": 296
+ },
+ {
+  "gID": 14,
+  "name": "Lazdynai",
+  "a_total": 298,
+  "a_info": 192
+ },
+ {
+  "gID": 16,
+  "name": "Naujamiestis",
+  "a_total": 1080,
+  "a_info": 494
+ },
+ {
+  "gID": 20,
+  "name": "Naujininkai",
+  "a_total": 863,
+  "a_info": 656
+ },
+ {
+  "gID": 19,
+  "name": "Naujoji Vilnia",
+  "a_total": 1935,
+  "a_info": 536
+ },
+ {
+  "gID": 13,
+  "name": "Paneriai",
+  "a_total": 375,
+  "a_info": 354
+ },
+ {
+  "gID": 2,
+  "name": "Pašilaičiai",
+  "a_total": 147,
+  "a_info": 97
+ },
+ {
+  "gID": 4,
+  "name": "Pilaitė",
+  "a_total": 121,
+  "a_info": 26
+ },
+ {
+  "gID": 18,
+  "name": "Rasos",
+  "a_total": 1387,
+  "a_info": 1033
+ },
+ {
+  "gID": 17,
+  "name": "Senamiestis",
+  "a_total": 2445,
+  "a_info": 1121
+ },
+ {
+  "gID": 7,
+  "name": "Šeškinė",
+  "a_total": 515,
+  "a_info": 243
+ },
+ {
+  "gID": 8,
+  "name": "Šnipiškės",
+  "a_total": 1035,
+  "a_info": 289
+ },
+ {
+  "gID": 1,
+  "name": "Verkiai",
+  "a_total": 668,
+  "a_info": 447
+ },
+ {
+  "gID": 15,
+  "name": "Vilkpėdė",
+  "a_total": 208,
+  "a_info": 164
+ },
+ {
+  "gID": 6,
+  "name": "Viršuliškės",
+  "a_total": 291,
+  "a_info": 254
+ },
+ {
+  "gID": 9,
+  "name": "Žirmūnai",
+  "a_total": 1309,
+  "a_info": 852
+ },
+ {
+  "gID": 12,
+  "name": "Žvėrynas",
+  "a_total": 1024,
+  "a_info": 677
+ }
+]
