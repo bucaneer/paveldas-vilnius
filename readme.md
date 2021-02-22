@@ -72,6 +72,7 @@ Toliau pateikiama kiekvieno failo objektų struktūra.
 | wall_c   | sienų būklė (1-9) |
 | roof_c   | stogo būklė (1-9) |
 | windows_c | langų / durų būklė (1-9) |
+| photos   | masyvas su pastato nuotraukų failų pavadinimais |
 
 Vertė ir būklė vertinama balais nuo 1 (geriausia) iki 9 (blogiausia).
 
