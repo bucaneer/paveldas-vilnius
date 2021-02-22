@@ -12,7 +12,8 @@ pastatus (8647 iš 16406) ir mažiau nei 5% nuotraukų (1131 iš apie 28000).
 ## Peržiūros įrankis
 
 Tekstinę informaciją ir nuotraukas galima peržiūrėti per interneto 
-naršyklę atsidarius failą `index.html`.
+naršyklę atsidarius failą `index.html`. Įrankis taip pat pasiekiamas
+adresu [https://bucaneer.github.io/paveldas-vilnius](https://bucaneer.github.io/paveldas-vilnius).
 
 ## Informacijos struktūra
 
